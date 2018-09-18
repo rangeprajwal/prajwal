@@ -8,8 +8,8 @@ int main()
     for(i=1;i<=n;i++)
     {
         printf("%d",t1);
-        t3=t1+t2;
-        t1=t2;
+          t3=t1+t2;
+ t1=t2;
         t2=t3;
     }
 
