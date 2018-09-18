@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    int t1=0,t2=1,t3,i,n;
+    int t1=0,t2=0,t3,i,n;
     printf("enter the numbers");
     scanf("%d",&n);
     printf("the series");
